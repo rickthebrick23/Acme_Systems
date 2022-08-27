@@ -4,4 +4,10 @@ public class HelloWorld {
         System.out.println("This is my edit to helloWorld.java file for testing upload to github\n");
         System.out.println("Forgot to add ; after last print statement. Corrected this inside of github.com");
     }
+
+    public static void heyNow(){
+        String Msg = "Hey Now!";
+        System.out.println(Msg);
+        //added via VS
+    }
 }
